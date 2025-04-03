@@ -9,8 +9,7 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 
 # Tools and technologies used
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="margin-right: 10px;" /> <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="margin-right: 10px;" />
 <img src="https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white" height="40" style="margin-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right: 10px;" />
@@ -27,7 +26,6 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 ### Key NPM Packages Used
 
 <div>
-  <img src="https://cdn.simpleicons.org/dotenv/00C775" height="24" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Body--Parser-FFDD00?style=for-the-badge&logoColor=black" height="24" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Cookie--Parser-20232A?style=for-the-badge&logoColor=white" height="24" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white" height="24" style="margin-right: 6px;"/>
@@ -60,7 +58,7 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 ### 🔐 User Authentication  
 
 <div>
-  <img src="./Preview/signin.png" width="49%%" style="border:2px solid gray;">  
+  <img src="./Preview/signin.png" width="49%" style="border:2px solid gray;">  
   <img src="./Preview/signup.png" width="49%" style="border:2px solid gray;">  
   <img src="./Preview/forgot_password.png" width="49%" style="border:2px solid gray;">  
   <img src="./Preview/reset_password.png" width="49%" style="border:2px solid gray;">  
@@ -71,29 +69,14 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 - 🔄 Forgot password and reset password functionalities  
 
 ### 💰 Investment System  
-<div style="display: flex; width: 100%; gap: 10px;">
-<div style="width: 33%; height: 400px; display: flex; justify-content: center; align-items: center;">
-    <img src="./Preview/plans.png" width="200px" style="border:2px solid gray;">
-  </div>
-  
-  <!-- First Column (100% height) -->
-  <div style="width: 33%; height: 400px; display: flex; justify-content: center; align-items: center;">
-    <img src="./Preview/user_profile.png" width="200px" style="border:2px solid gray;">
-  </div>
+<div>
+  <img src="./Preview/plans.png" width="33%">
+  <img src="./Preview/user_profile.png" width="48%" style="border:2px solid gray; margin-right: 10px;">
+</div>
 
-  <!-- Second Column (50% + 50% height) -->
-  <div style="width: 33%; display: flex; flex-direction: column; gap: 10px;">
-    <div style="height: 50%; display: flex; justify-content: center; align-items: center;">
-      <img src="./Preview/wallet.png" width="200px" style="border:2px solid gray;">
-    </div>
-    <div style="height: 50%; display: flex; justify-content: center; align-items: center;">
-      <img src="./Preview/debit_request.png" width="200px" style="border:2px solid gray;">
-    </div>
-  </div>
-
-  <!-- Third Column (100% height) -->
-  
-
+<div>
+  <img src="./Preview/admin_panel.jpeg" width="49%" style="border:2px solid gray; margin-right: 10px;">  
+  <img src="./Preview/withdraw_request.jpeg" width="49%" style="border:2px solid gray;">
 </div>
 
 
@@ -142,11 +125,7 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 ```bash
 > npm install
 ```
-3. Configure environment variables
-```bash
-> git clone <repository-url>
-> cd jx-power
-```
+3. Configure environment variables `.env`
 
 4. Start the server
 ```bash
@@ -157,8 +136,7 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 For any questions, feedback, or collaboration opportunities, feel free to reach out:  
 
 - 📧 **Email:** [lukeshpatil05@gmail.com]  
-- 🐙 **GitHub Issues:** [Open an Issue](https://github.com/your-repo/issues)  
+- 🐙 **GitHub Issues:** [Open an Issue](https://github.com/Lukesh25092002)  
 - 💼 **LinkedIn:** [View My LinkedIn](https://www.linkedin.com/in/lukesh-patil/)  
-- 📄 **Resume:** [View My Resume](https://your-resume-link.com)  
 
 If you find this project interesting or have suggestions, I’d love to connect! 🚀
