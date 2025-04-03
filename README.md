@@ -75,8 +75,8 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 </div>
 
 <div>
-  <img src="./Preview/admin_panel.jpeg" width="49%" style="border:2px solid gray; margin-right: 10px;">  
-  <img src="./Preview/withdraw_request.jpeg" width="49%" style="border:2px solid gray;">
+  <img src="./Preview/wallet.png" width="49%" style="border:2px solid gray; margin-right: 10px;">  
+  <img src="./Preview/withdraw_request.png" width="49%" style="border:2px solid gray;">
 </div>
 
 
@@ -87,7 +87,7 @@ Built to deliver a smooth and reliable experience, JX Power empowers individuals
 ### 🛠️ Admin Panel  
 <div>
 
-<img src="./Preview/wallet.png" width="49%" style="border:2px solid gray;">  
+<img src="./Preview/admin_panel.png" width="49%" style="border:2px solid gray;">  
 <img src="./Preview/debit_request.png" width="49%" style="border:2px solid gray;">  
 </div>
 
